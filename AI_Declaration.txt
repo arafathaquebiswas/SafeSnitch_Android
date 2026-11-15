@@ -1,0 +1,67 @@
+============================================================
+                   AI USAGE DECLARATION
+============================================================
+
+Name: Arafat Haque Biswas
+Student ID: 24241325
+Assignment: Milestone 1
+Date: 15 November 2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[x] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[x] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[ ] Learning/understanding concepts
+[x] Debugging my code
+[ ] Generating code snippets
+[x] Writing text content
+[x] Design/styling ideas
+[ ] Image generation
+[x] Other: Drawing diagrams and Git submission assistance
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used Claude AI to help debug my code and draw diagrams for
+Milestone 1. I used ChatGPT/Codex to commit and push the milestone
+diagram files to GitHub, verify public repository access, and
+prepare this AI usage declaration from the details I provided.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+File: ER Diagram/SafeStitch-ER-Diagram.drawio
+Section: ER diagram drawing (Claude AI)
+
+File: Wireflow/01-Full-Application-Wireflow.drawio
+Section: Application wireflow drawing (Claude AI)
+
+File: docs/AI_Declaration.txt
+Section: Declaration wording and formatting (ChatGPT/Codex)
+
+Code debugging: Claude AI; specific files were not provided.
+Diagram PDF exports are included with the diagram source files.
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: ________________________
+Date: 15 November 2026
+
+============================================================
